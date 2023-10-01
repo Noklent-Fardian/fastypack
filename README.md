@@ -1,5 +1,5 @@
 # fastypack
-> Excellent fastify starter pack and structures has included helper utilities
+> Excellent fastify starter pack and structures has included helper utilities and more
 
 ## instalation
 ```bash
